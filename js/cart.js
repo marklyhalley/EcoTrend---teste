@@ -10,7 +10,6 @@ function adicionarCarrinho(id) {
 
     atualizarCarrinho()
 
-    // Feedback ao usuário usando Promise
     mostrarMensagem("Produto adicionado ao carrinho!")
 
 }
